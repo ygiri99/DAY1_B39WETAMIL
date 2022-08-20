@@ -1,0 +1,11 @@
+HTTP 1.1             VS                 HTTP 2
+
+1. HTTP 1.1 is published in early 1997.,
+    HTTP 2 is officialy standardized in may 2015.
+
+2.HTTP 2 is much faster and reliable than HTTP 1.1.
+
+3.HTTP 1.1 is a text protocol where HTTP 2  is binary protocol.
+
+4.HTTP 1.1 is singleplexed protocol in which pipelining was added. This allowed second request to be sent before the answer to the first one was fully transmitted.
+ In HTTP 2 is multiplexed protocol where requests can be made over the same connection.
